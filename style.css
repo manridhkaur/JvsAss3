@@ -1,8 +1,8 @@
 /* Set background image for the entire body */
 body {
-    background-image: url(/pizza.jpeg);
     background-size: 2500px; /* Adjust the background image size as needed */
     text-align: center; /* Center-align text in the body */
+    background-color: blueviolet;
 }
 
 /* Style for heading 1 */
