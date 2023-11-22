@@ -1,0 +1,25 @@
+/* Set background image for the entire body */
+body {
+    background-image: url(/pizza.jpeg);
+    background-size: 2500px; /* Adjust the background image size as needed */
+    text-align: center; /* Center-align text in the body */
+}
+
+/* Style for heading 1 */
+h1 {
+    color: brown;
+    font-weight: bolder;
+    font-size: 45px;
+    font-family: 'Headland One', serif; /* Use the 'Headland One' font for H1 */
+}
+
+/* Style for heading 2 */
+h2 {
+    font-size: 23px;
+    font-family: 'Headland One', serif; /* Use the 'Headland One' font for H2 */
+}
+
+/* Style for submit button */
+.submit_button {
+    background-color: paleturquoise;
+}
